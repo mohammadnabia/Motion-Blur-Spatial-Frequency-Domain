@@ -65,8 +65,11 @@ Then we blur the image in frequency domain
 |![download](https://github.com/mohammadnabia/Motion-Blur-Spatial-Frequency-Domain/assets/53332753/6f56463f-2d13-45a4-8787-e2370b35df78) | 
 |:--:| 
 | *This photo is our motion blurred photo in the frequency domain* |
+
 We convert the image in the frequency domain to the spatial domain using the inverse Fourier transform
+
 Result:
+
 |![download](https://github.com/mohammadnabia/Motion-Blur-Spatial-Frequency-Domain/assets/53332753/90a47e23-97c7-4682-8856-6bf94f37b5af) | 
 |:--:| 
 | *The image on the left is our input  -  the image on the right is our output* |
